@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CardViewDemo</string>
+    <string-array name="person_name">
+        <item>"jellyfish"</item>
+        <item>"koala"</item>
+        <item>"lighthouse"</item>
+        <item>"penguins"</item>
+        <item>"tulips"</item>
+    </string-array>
+    <string-array name="person_email">
+        <item>"jellyfish@gmail.com"</item>
+        <item>"koala@gmail.com"</item>
+        <item>"lighthouse@gmail.com"</item>
+        <item>"penguins@gmail.com"</item>
+        <item>"tulips@gmail.com"</item>
+    </string-array>
+    <string-array name="person_mobile">
+        <item>"9845785447"</item>
+        <item>"9845785448"</item>
+        <item>"9845785449"</item>
+        <item>"9845785441"</item>
+        <item>"9845785443"</item>
+    </string-array>
+</resources>
